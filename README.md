@@ -12,6 +12,6 @@ In this quickstart I'll show you how to build a simple LLM application with Lang
 
 - Deploying your application with LangServe
 
-## model used
-1)Groq API key
-2)Model = " Gemma2-9b-It "
+## Prerequisites
+1) Groq API Key: Required for authentication and accessing the language model.
+2) Model: Use "Gemma2-9b-It" as the language model for this application.
