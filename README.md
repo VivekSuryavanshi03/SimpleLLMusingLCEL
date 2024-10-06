@@ -1,4 +1,5 @@
 # SimpleLLMusingLCEL
+![LCEL](https://github.com/VivekSuryavanshi03/SimpleLLMusingLCEL/blob/82516def6c869ac875ec158fa8e3dc169ec2501e/LCEL.png)
 LangChain Expression Language (LCEL)
 In this quickstart I'll show you how to build a simple LLM application with LangChain. This application will translate text from English into another language. This is a relatively simple LLM application - it's just a single LLM call plus some prompting. Still, this is a great way to get started with LangChain
 
